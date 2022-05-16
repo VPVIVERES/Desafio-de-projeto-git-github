@@ -1,0 +1,13 @@
+Alguns comandos básicos do git
+
+- cd
+- dir
+- mkdir
+- echo
+- mv
+- git config
+- git init
+- git add
+- git commit
+- git clone 
+- git push
